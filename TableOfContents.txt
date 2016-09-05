@@ -1,0 +1,10 @@
+Group 3 - Fall 2013
+Iyad Kuwatly, Pavankumar Bhujannavar, Shivesh Kumar Sharma
+
+This CD contains the following items:
+
+A copy of report.
+A copy of power point presentation.
+Source code of Pic32 and Android programs.
+Data sheets of all the chips that we used.
+Professional quality video clips of good working projects for extra credits.
